@@ -26,7 +26,11 @@ _using npm i express.js,bodyparser_
 ## to start the project i used 
 _nodemon app.js_
 
-##
+# using git 
+![Screenshot (1672)](https://user-images.githubusercontent.com/43901178/113329000-a32db500-933a-11eb-9160-561cb239183a.png)
+
+## It will start at port 3000.
+
 
 
 
