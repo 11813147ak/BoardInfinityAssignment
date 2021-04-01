@@ -23,6 +23,9 @@ _using npm i express.js,bodyparser_
 
 ## where i is install
 
+## to start the project i used 
+_nodemon app.js_
+
 ##
 
 
